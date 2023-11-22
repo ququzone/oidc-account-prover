@@ -1,0 +1,22 @@
+{
+  "name": "oidc-account-prover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@koa/router": "^12.0.1",
+    "koa": "^2.14.2",
+    "koa-body": "^6.0.1",
+    "koa-logger": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
